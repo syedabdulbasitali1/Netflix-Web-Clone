@@ -58,11 +58,11 @@ start index.html # For Windows users
 ## 🖼️ Screenshots
 An accurate visual representation of the Netflix homepage.
 - ![Netflix Clone UI](/netflix-preview-images/1.PNG)
-- ![Netflix Clone UI](/netflix-preview-images/1.PNG)
-- ![Netflix Clone UI](/netflix-preview-images/1.PNG)
-- ![Netflix Clone UI](/netflix-preview-images/1.PNG)
-- ![Netflix Clone UI](/netflix-preview-images/1.PNG)
-- ![Netflix Clone UI](/netflix-preview-images/1.PNG)
+- ![Netflix Clone UI](/netflix-preview-images/2.PNG)
+- ![Netflix Clone UI](/netflix-preview-images/3.PNG)
+- ![Netflix Clone UI](/netflix-preview-images/4.PNG)
+- ![Netflix Clone UI](/netflix-preview-images/5.PNG)
+- ![Netflix Clone UI](/netflix-preview-images/6.PNG)
 
 ## 📈 SEO Best Practices
 This project follows SEO best practices, ensuring that it’s easily discoverable and accessible:
