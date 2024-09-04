@@ -5,7 +5,7 @@
 ![Netflix Clone UI](/netflix-preview-images/1.PNG)
 *A stunning replica of the Netflix user interface built with HTML & CSS.*
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/netflix-web-clone/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-correct-badge-id/deploy-status)](https://app.netlify.com/sites/netflix-web-clone/deploys)
 [![GitHub issues](https://img.shields.io/github/issues/syedabdulbasitali1/netflix-web-clone)](https://github.com/syedabdulbasitali1/netflix-web-clone/issues)
 [![GitHub stars](https://img.shields.io/github/stars/syedabdulbasitali1/netflix-web-clone)](https://github.com/syedabdulbasitali1/netflix-web-clone/stargazers)
 
@@ -88,3 +88,8 @@ For any questions or feedback, feel free to reach out:
 - Netflix for the inspiration.
 - W3Schools for the helpful tutorials.
 - Unsplash for the beautiful placeholder images.
+
+
+---
+
+> Crafted with ❤️ by [Syed Abdul Basit Ali](https://github.com/syedabdulbasitali1)
